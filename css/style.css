@@ -65,6 +65,7 @@
 }
 
 .fmt {
+  display: inline-block;
   text-align: end;
 }
 
